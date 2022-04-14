@@ -1,4 +1,4 @@
-php jukebox script
+whitehot robot - php jukebox
 
 
 Installation:
